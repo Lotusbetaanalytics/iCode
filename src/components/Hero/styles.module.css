@@ -1,0 +1,29 @@
+.hero {
+    width: 94%;
+    height: 100vh;
+    float: left;
+    margin-left: 6%;
+    background-size: cover;
+    padding: 10rem;
+}
+
+
+.btn {
+    height: 6rem;
+    padding: 1.8rem 3rem;
+    border-radius: 5px;
+    transition: all 0.2s linear;
+    text-align: center;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.yellow {
+    background: goldenrod;
+    color: black;
+}
+
+.green {
+    background: #6DBE4F;
+    color: black;
+}
